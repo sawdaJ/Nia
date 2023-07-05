@@ -1,7 +1,7 @@
 # 🛍️ Project Name: Nia #
 
 ## 📝 Description:
-Nia is a modern and feature-rich e-commerce website developed using Strapi and React. It offers a seamless online shopping experience with a wide range of products, a fully functional shopping cart, and integrated Stripe payment processing. 
+Nia is a modern and feature-rich e-commerce website developed using Strapi and React. It offers a seamless online shopping experience with a fully functional shopping cart, and integrated Stripe payment processing. 
 
 ## 🖥️ Technologies Used:
 
